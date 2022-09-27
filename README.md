@@ -19,3 +19,8 @@ GET method: https://ticket-booking-api01.herokuapp.com/details/25 <br>
 
 DELETE method: https://ticket-booking-api01.herokuapp.com/cancel/25 <br>
 `/cancel/seat_number` route - To cancel the booked seat. <br>
+
+Demonstration video: 
+
+https://user-images.githubusercontent.com/81901470/192521546-b641ec0c-8762-45a9-8df2-c352c0316de0.mp4
+
