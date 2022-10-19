@@ -1,6 +1,5 @@
 ## ticket-booking-API
-API for a booking system where we have 500 seats that can be booked. API to fetch available seats, book seat of two or more users simultaneously with consistency. 
-User is be able to select seat which they want to book also enables cancelling of the booked seats.
+It is a booking system API where we have 500 seats that can be booked, using this API user can fetch available seats, book seat of two or more users simultaneously with consistency. User can also select seat which they want to book also enables cancelling of the booked seats.
 
 POST method: https://ticket-booking-api01.herokuapp.com/booking <br>
 `/booking` route - Takes 3 parameters as key value pair. <br>
